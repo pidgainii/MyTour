@@ -95,10 +95,3 @@ npm start
 
 ---
 
-If you'd like, I can also:
-✔ add badges
-✔ add architecture diagram
-✔ refine descriptions
-✔ add setup instructions for environment variables
-
-Just tell me!
