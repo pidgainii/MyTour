@@ -1,0 +1,16 @@
+# Auto normalize line endings
+* text=auto
+
+# Batch scripts should always use CRLF
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Shell scripts (if any in the future) should use LF
+*.sh text eol=lf
+
+# IDE/project files (optional, just treat as text)
+*.iml text
+.idea/* text
+
+# Maven wrapper properties
+.mvn/wrapper/maven-wrapper.properties text
