@@ -1,10 +1,27 @@
 # **MyTour**
 
-MyTour is a mobile application that delivers **self-guided, multimedia-rich tours** for independent travelers. Users can browse tours created by local experts, purchase or access free ones, and explore destinations using interactive maps and GPS-triggered content.
+MyTour is a mobile application that delivers self-guided, multimedia-rich tours created by local experts. Travelers can explore destinations independently using interactive maps, GPS-triggered content, and a curated marketplace of free and paid tours.
 
 ---
 
-## 🛠️ **Tech Stack**
+## **Executive Summary**
+
+Traditional guided tours offer valuable information but lack flexibility, forcing travelers to follow fixed schedules and content. Many travelers prefer independent exploration while still benefiting from expert local knowledge.
+
+MyTour addresses this need by providing a mobile platform where users can discover, purchase, and follow self-guided tours enriched with interactive maps and multimedia content at points of interest (POIs). Guides can create and publish tours through an integrated creation system. The goal is to deliver a personalized, autonomous travel experience for independent-minded explorers worldwide.
+
+## **Core Features**
+
+- Role-based authentication for travelers and guides
+- Travelers select a location and browse available tours.
+- Each tour includes a mapped route and multimedia content triggered at POIs.
+- Guides can create tours, upload multimedia content, and assign themes.
+- Personalized dashboards for both roles
+- Tour creation tools for guides
+
+
+
+## **Tech Stack**
 
 **Backend**
 
@@ -19,9 +36,9 @@ MyTour is a mobile application that delivers **self-guided, multimedia-rich tour
 
 ---
 
-## 📱 **Screenshots**
+## **Screenshots**
 
-### 🔐 Authentication
+### Authentication
 
 Signup & Login
 
@@ -32,7 +49,7 @@ Signup & Login
 
 ---
 
-### 🗺️ Creating a Tour
+### Creating a Tour
 
 Create Tour & Pick Location
 
@@ -43,7 +60,7 @@ Create Tour & Pick Location
 
 ---
 
-### 🔍 Browsing Tours
+### Browsing Tours
 
 Explore All Tours & Explore a Single Tour
 
@@ -54,7 +71,7 @@ Explore All Tours & Explore a Single Tour
 
 ---
 
-### ▶️ Following a Tour
+### Following a Tour
 
 Following & Enjoying a Tour
 
@@ -65,16 +82,6 @@ Following & Enjoying a Tour
 
 ---
 
-## 🚀 **Features**
-
-- Browse available tours
-- Purchase or access free tours
-- GPS-triggered audio/visual content
-- Interactive map with POIs
-- Create tours as a local expert
-- Secure authentication using JWT
-
----
 
 ## 📦 **Installation**
 
